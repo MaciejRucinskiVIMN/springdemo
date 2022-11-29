@@ -17,7 +17,7 @@ gradle/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-!**/**/.DS_STORE
+*/.DS_STORE
 
 ### IntelliJ IDEA ###
 .idea
